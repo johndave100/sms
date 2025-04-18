@@ -1,5 +1,5 @@
 {
-  Google: [
+  "Google": [
     "Google verification code: 882134",
     "Google login: enter 335678.",
     "[Google] Your security code is 441200.",
@@ -11,7 +11,7 @@
     "Google security alert: 789012 is your verification code.",
     "Enter code 345678 to access your Google account."
   ],
-  Amazon: [
+  "Amazon": [
     "Amazon: 123456 is your OTP.",
     "Your Amazon verification code is 987654.",
     "[Amazon] Use code 246810 to complete your sign-in.",
@@ -23,7 +23,7 @@
     "Your verification code for Amazon: 951357",
     "[Amazon] Security code: 357159"
   ],
-  Facebook: [
+  "Facebook": [
     "Your Facebook activation code is 123987.",
     "Facebook login: enter 998377.",
     "[Facebook] 302919 is your OTP.",
@@ -35,7 +35,7 @@
     "Your Facebook code is 159753. Never share it with anyone.",
     "[Facebook] Authentication code: 357951"
   ],
-  Apple: [
+  "Apple": [
     "Apple ID verification code: 234567",
     "[Apple] Your security code is 876543.",
     "Apple: Use 345678 to verify your identity.",
@@ -47,7 +47,7 @@
     "Apple security alert: 987654 is your code.",
     "Use code 109876 to verify your Apple ID."
   ],
-  Microsoft: [
+  "Microsoft": [
     "Microsoft code: 345678",
     "Your Microsoft verification code is 765432.",
     "[Microsoft] Security code: 456789",
@@ -59,7 +59,7 @@
     "[Microsoft] Your verification code is 456789.",
     "Microsoft security alert: 876543 is your code."
   ],
-  Netflix: [
+  "Netflix": [
     "Netflix verification code: 456789",
     "[Netflix] Your security code is 876543.",
     "Netflix: Use 567890 to verify your account.",
@@ -83,7 +83,7 @@
     "Use 112345 to verify your X account.",
     "[Twitter/X] Code: 223456. Don't share this with anyone."
   ],
-  Instagram: [
+  "Instagram": [
     "[Instagram] 843920 is your verification code.",
     "Use 982341 to confirm your Instagram login.",
     "Instagram code: 553201. Do not share this with anyone.",
@@ -95,7 +95,7 @@
     "Use 889012 to access your Instagram account.",
     "Instagram security alert: 990123 is your code."
   ],
-  LinkedIn: [
+  "LinkedIn": [
     "LinkedIn security code: 001234",
     "Your LinkedIn verification code is 112345.",
     "[LinkedIn] Use 223456 to sign in.",
@@ -107,7 +107,7 @@
     "LinkedIn: Your code is 889012. Never share it.",
     "Enter 990123 to verify your LinkedIn account."
   ],
-  PayPal: [
+  "PayPal": [
     "PayPal security code: 123456",
     "Your PayPal verification code is 234567.",
     "[PayPal] 345678 is your authentication code.",
@@ -119,7 +119,7 @@
     "PayPal: 901234 is your OTP.",
     "Enter 012345 to verify your PayPal account."
   ],
-  Dropbox: [
+  "Dropbox": [
     "Dropbox verification code: 234567",
     "[Dropbox] Your security code is 345678.",
     "Dropbox: 456789 is your sign-in code.",
@@ -131,7 +131,7 @@
     "Your Dropbox login code is 012345.",
     "Dropbox security code: 123456. Never share this."
   ],
-  Uber: [
+  "Uber": [
     "Uber verification code: 345678",
     "Your Uber security code is 456789.",
     "[Uber] Use 567890 to sign in.",
@@ -143,7 +143,7 @@
     "Uber: 123456 is your OTP.",
     "Enter 234567 to verify your Uber account."
   ],
-  Airbnb: [
+  "Airbnb": [
     "Airbnb verification code: 456789",
     "[Airbnb] Your security code is 567890.",
     "Airbnb: 678901 is your sign-in code.",
@@ -155,7 +155,7 @@
     "Your Airbnb login code is 234567.",
     "Airbnb security code: 345678. Never share this."
   ],
-  Spotify: [
+  "Spotify": [
     "Spotify verification code: 567890",
     "Your Spotify security code is 678901.",
     "[Spotify] Use 789012 to sign in.",
@@ -167,7 +167,7 @@
     "Spotify: 345678 is your OTP.",
     "Enter 456789 to verify your Spotify account."
   ],
-  Zoom: [
+  "Zoom": [
     "Zoom verification code: 678901",
     "[Zoom] Your security code is 789012.",
     "Zoom: 890123 is your sign-in code.",
@@ -179,7 +179,7 @@
     "Your Zoom login code is 456789.",
     "Zoom security code: 567890. Never share this."
   ],
-  WhatsApp: [
+  "WhatsApp": [
     "WhatsApp verification code: 789012",
     "Your WhatsApp security code is 890123.",
     "[WhatsApp] Use 901234 to sign in.",
@@ -191,7 +191,7 @@
     "WhatsApp: 567890 is your OTP.",
     "Enter 678901 to verify your WhatsApp account."
   ],
-  Slack: [
+  "Slack": [
     "Slack verification code: 890123",
     "[Slack] Your security code is 901234.",
     "Slack: 012345 is your sign-in code.",
@@ -203,7 +203,7 @@
     "Your Slack login code is 678901.",
     "Slack security code: 789012. Never share this."
   ],
-  Shopify: [
+  "Shopify": [
     "Shopify verification code: 901234",
     "Your Shopify security code is 012345.",
     "[Shopify] Use 123456 to sign in.",
@@ -215,7 +215,7 @@
     "Shopify: 789012 is your OTP.",
     "Enter 890123 to verify your Shopify account."
   ],
-  Adobe: [
+  "Adobe": [
     "Adobe verification code: 012345",
     "[Adobe] Your security code is 123456.",
     "Adobe: 234567 is your sign-in code.",
@@ -227,7 +227,7 @@
     "Your Adobe login code is 890123.",
     "Adobe security code: 901234. Never share this."
   ],
-  eBay: [
+  "eBay": [
     "eBay verification code: 123456",
     "Your eBay security code is 234567.",
     "[eBay] Use 345678 to sign in.",
@@ -239,7 +239,7 @@
     "eBay: 901234 is your OTP.",
     "Enter 012345 to verify your eBay account."
   ],
-  Twitch: [
+  "Twitch": [
     "Twitch verification code: 234567",
     "[Twitch] Your security code is 345678.",
     "Twitch: 456789 is your sign-in code.",
@@ -251,7 +251,7 @@
     "Your Twitch login code is 012345.",
     "Twitch security code: 123456. Never share this."
   ],
-  Reddit: [
+  "Reddit": [
     "Reddit verification code: 345678",
     "Your Reddit security code is 456789.",
     "[Reddit] Use 567890 to sign in.",
@@ -263,7 +263,7 @@
     "Reddit: 123456 is your OTP.",
     "Enter 234567 to verify your Reddit account."
   ],
-  Pinterest: [
+  "Pinterest": [
     "Pinterest verification code: 456789",
     "[Pinterest] Your security code is 567890.",
     "Pinterest: 678901 is your sign-in code.",
@@ -275,7 +275,7 @@
     "Your Pinterest login code is 234567.",
     "Pinterest security code: 345678. Never share this."
   ],
-  Salesforce: [
+  "Salesforce": [
     "Salesforce verification code: 567890",
     "Your Salesforce security code is 678901.",
     "[Salesforce] Use 789012 to sign in.",
@@ -287,7 +287,7 @@
     "Salesforce: 345678 is your OTP.",
     "Enter 456789 to verify your Salesforce account."
   ],
-  TikTok: [
+  "TikTok": [
     "Use 493029 to complete your TikTok sign up.",
     "TikTok login code: 328191.",
     "[TikTok] Your code is 553928.",
@@ -299,7 +299,7 @@
     "TikTok: Enter 123456 to verify your account.",
     "Your TikTok verification code: 234567"
   ],
-  Snapchat: [
+  "Snapchat": [
     "Snapchat code: 221993. Don't share this code.",
     "Your verification code for Snapchat is 443122.",
     "Snapchat login code: 938273",
@@ -311,7 +311,7 @@
     "Enter 345678 to verify your Snapchat account.",
     "[Snapchat] Code: 456789. Never share with others."
   ],
-  Stripe: [
+  "Stripe": [
     "Stripe verification code: 901234",
     "[Stripe] Your security code is 012345.",
     "Stripe: 123456 is your sign-in code.",
@@ -323,7 +323,7 @@
     "Your Stripe login code is 789012.",
     "Stripe security code: 890123. Never share this."
   ],
-  Square: [
+  "Square": [
     "Square verification code: 012345",
     "Your Square security code is 123456.",
     "[Square] Use 234567 to sign in.",
@@ -335,7 +335,7 @@
     "Square: 890123 is your OTP.",
     "Enter 901234 to verify your Square account."
   ],
-  DoorDash: [
+  "DoorDash": [
     "DoorDash verification code: 123456",
     "[DoorDash] Your security code is 234567.",
     "DoorDash: 345678 is your sign-in code.",
@@ -347,7 +347,7 @@
     "Your DoorDash login code is 901234.",
     "DoorDash security code: 012345. Never share this."
   ],
-  Instacart: [
+  "Instacart": [
     "Instacart verification code: 234567",
     "Your Instacart security code is 345678.",
     "[Instacart] Use 456789 to sign in.",
@@ -359,7 +359,7 @@
     "Instacart: 012345 is your OTP.",
     "Enter 123456 to verify your Instacart account."
   ],
-  Coinbase: [
+  "Coinbase": [
     "Coinbase verification code: 345678",
     "[Coinbase] Your security code is 456789.",
     "Coinbase: 567890 is your sign-in code.",
@@ -371,7 +371,7 @@
     "Your Coinbase login code is 123456.",
     "Coinbase security code: 234567. Never share this."
   ],
-  Binance: [
+  "Binance": [
     "Binance verification code: 456789",
     "Your Binance security code is 567890.",
     "[Binance] Use 678901 to sign in.",
@@ -395,7 +395,7 @@
     "Your Booking.com login code is 345678.",
     "Booking.com security code: 456789. Never share this."
   ],
-  Expedia: [
+  "Expedia": [
     "Expedia verification code: 678901",
     "Your Expedia security code is 789012.",
     "[Expedia] Use 890123 to sign in.",
@@ -407,7 +407,7 @@
     "Expedia: 456789 is your OTP.",
     "Enter 567890 to verify your Expedia account."
   ],
-  Etsy: [
+  "Etsy": [
     "Etsy verification code: 789012",
     "[Etsy] Your security code is 890123.",
     "Etsy: 901234 is your sign-in code.",
@@ -419,7 +419,7 @@
     "Your Etsy login code is 567890.",
     "Etsy security code: 678901. Never share this."
   ],
-  Discord: [
+  "Discord": [
     "Discord verification code: 890123",
     "Your Discord security code is 901234.",
     "[Discord] Use 012345 to sign in.",
@@ -431,7 +431,7 @@
     "Discord: 678901 is your OTP.",
     "Enter 789012 to verify your Discord account."
   ],
-  Hulu: [
+  "Hulu": [
     "Hulu verification code: 901234",
     "[Hulu] Your security code is 012345.",
     "Hulu: 123456 is your sign-in code.",
@@ -479,7 +479,7 @@
     "Bank of America: 012345 is your OTP.",
     "Enter 123456 to verify your BoA account."
   ],
-  Citibank: [
+  "Citibank": [
     "Citibank verification code: 345678",
     "[Citi] Your security code is 456789.",
     "Citibank: 567890 is your sign-in code.",
@@ -491,7 +491,7 @@
     "Your Citibank login code is 123456.",
     "Citi security code: 234567. Never share this."
   ],
-  Venmo: [
+  "Venmo": [
     "Venmo verification code: 456789",
     "Your Venmo security code is 567890.",
     "[Venmo] Use 678901 to sign in.",
@@ -515,7 +515,7 @@
     "Your Cash App login code is 345678.",
     "Cash App security code: 456789. Never share this."
   ],
-  Robinhood: [
+  "Robinhood": [
     "Robinhood verification code: 678901",
     "Your Robinhood security code is 789012.",
     "[Robinhood] Use 890123 to sign in.",
@@ -527,7 +527,7 @@
     "Robinhood: 456789 is your OTP.",
     "Enter 567890 to verify your Robinhood account."
   ],
-  Walmart: [
+  "Walmart": [
     "Walmart verification code: 789012",
     "[Walmart] Your security code is 890123.",
     "Walmart: 901234 is your sign-in code.",
@@ -539,7 +539,7 @@
     "Your Walmart login code is 567890.",
     "Walmart security code: 678901. Never share this."
   ],
-  Target: [
+  "Target": [
     "Target verification code: 890123",
     "Your Target security code is 901234.",
     "[Target] Use 012345 to sign in.",
@@ -551,7 +551,7 @@
     "Target: 678901 is your OTP.",
     "Enter 789012 to verify your Target account."
   ],
-  Alibaba: [
+  "Alibaba": [
     "Alibaba verification code: 901234",
     "[Alibaba] Your security code is 012345.",
     "Alibaba: 123456 is your sign-in code.",
@@ -563,7 +563,7 @@
     "Your Alibaba login code is 789012.",
     "Alibaba security code: 890123. Never share this."
   ],
-  GitHub: [
+  "GitHub": [
     "GitHub verification code: 012345",
     "Your GitHub security code is 123456.",
     "[GitHub] Use 234567 to sign in.",
@@ -575,7 +575,7 @@
     "GitHub: 890123 is your OTP.",
     "Enter 901234 to verify your GitHub account."
   ],
-  DocuSign: [
+  "DocuSign": [
     "DocuSign verification code: 123456",
     "[DocuSign] Your security code is 234567.",
     "DocuSign: 345678 is your sign-in code.",
@@ -587,4 +587,4 @@
     "Your DocuSign login code is 901234.",
     "DocuSign security code: 012345. Never share this."
   ]
-};
+}
